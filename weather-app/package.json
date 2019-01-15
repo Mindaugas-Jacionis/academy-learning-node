@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Small weather app to get weather of desired location",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "node-env-run": "^3.0.2",
+    "request": "^2.88.0",
+    "yargs": "^12.0.5"
+  },
+  "scripts": {
+    "weather": "node index.js"
+  },
+  "author": "Mindaugas Jačionis",
+  "license": "ISC"
+}
